@@ -174,9 +174,90 @@ Esta decisión busca mantener coherencia tecnológica, eficiencia de desarrollo 
 # Funcionamiento.
 
 
-## 💻 Web.
+## 💻 Pantallas Web.
 
-## 📱 App.
+Iniciar sesión
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.23.03.jpeg)
+
+Registrarse
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.26.51%20(1).jpeg)
+
+Iniciar sesión exitoso, me envia a un dashboard
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.23.41.jpeg)
+
+Olvidaste tu contraseña
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.24.10.jpeg)
+
+Me llega al correo el codigo para recuperar
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.25.32.jpeg)
+
+Cambiar contraseña
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.26.07.jpeg)
+
+
+## 📱 Pantallas App.
+
+Pantalla inicial
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.10.48.jpeg)
+
+Iniciar sesión
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.10.50.jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.09%20(4).jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.00.jpeg)
+
+Ingreso al dashboard
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.10.52.jpeg)
+
+Iniciar sesión con biométrico, el sistema reconcoce que el telefono no soporta.
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.07%20(3).jpeg)
+
+Registrase
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.07%20(4).jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.07.jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.07%20(1).jpeg)
+
+Recuperar contraseña
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.08%20(1).jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.08%20(2).jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.09%20(1).jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.08%20(4).jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2014.11.09%20(2).jpeg)
 
 ## Base de datos.
+
+Eidencia que re registra en la DB
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.17.59.jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.18.58.jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.19.19.jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.20.15.jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.20.56.jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.22.05.jpeg)
+
+![](https://github.com/JavierYungaT/pruebaAuthBack-Front/blob/main/ImagenesFuncionamiento/ImagenesFuncionamiento/WhatsApp%20Image%202025-10-23%20at%2001.22.30.jpeg)
 
